@@ -1,2 +1,2 @@
 # kilimanjaro
-my python web project
+This is my repo for python demo projects
