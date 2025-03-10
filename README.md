@@ -1,2 +1,2 @@
 # kilimanjaro
-my python web projects on pycharm
+my python web project
